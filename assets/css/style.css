@@ -1,85 +1,48 @@
-/* General Styling */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
+/* General Styles */
 body {
     font-family: 'Lato', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #f9f9f9;
     color: #333;
 }
 
 .container {
     width: 80%;
     margin: auto;
-    overflow: hidden;
+    padding: 20px;
 }
 
-/* Header Styling */
+/* Header */
 header {
-    background: #333;
-    color: #fff;
-    padding: 60px 0;
+    background-color: #333;
+    color: white;
     text-align: center;
+    padding: 50px 0;
 }
 
-header .name {
+header h1 {
     font-size: 48px;
-    font-weight: bold;
 }
 
-header .tagline {
-    font-size: 18px;
-    margin-top: 10px;
+header p {
+    font-size: 20px;
 }
 
-/* Section Styling */
 section {
     padding: 60px 0;
-}
-
-section h2 {
-    text-align: center;
-    font-size: 36px;
-    margin-bottom: 20px;
-}
-
-section p {
-    text-align: center;
-    margin-bottom: 20px;
 }
 
 /* Projects Slider */
 .slider {
     display: flex;
     overflow-x: scroll;
+    scroll-snap-type: x mandatory;
 }
 
 .slide {
-    flex: 0 0 80%;
-    background: #fff;
+    flex: 0 0 70%;
+    margin-right: 20px;
     padding: 20px;
-    margin: 10px;
-    border-radius: 5px;
-    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
-}
-
-.slide h3 {
-    font-size: 24px;
-    margin-bottom: 10px;
-}
-
-.slide p {
-    font-size: 16px;
-}
-
-/* Footer */
-footer {
-    text-align: center;
-    padding: 20px 0;
-    background: #333;
-    color: #fff;
-    margin-top: 50px;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    scroll-snap-align: start;
 }
