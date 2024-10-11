@@ -89,11 +89,11 @@ _September 2018 - April 2022_
 <table>
     <tr>
         <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/XeroTech.png" alt="Description of Image 1" width="300"/>
+            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/AutonomousBot.png" alt="Description of Image 1" width="300"/>
             <p>Description of Image 1</p>
         </td>
         <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/XeroTech.png" alt="Description of Image 2" width="300"/>
+            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/LaneDet.png" alt="Description of Image 2" width="300"/>
             <p>Description of Image 2</p>
         </td>
     </tr>
