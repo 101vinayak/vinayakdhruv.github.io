@@ -86,16 +86,19 @@ _September 2018 - April 2022_
 - Developed the **WeedBot** with **89% accuracy** for classifying weeds in agricultural fields.
 - Led [UGV-DTU](https://www.linkedin.com/company/53525369) in national competitions like Micromouse, specializing in maze solving and pathfinding.
 
-<div style="display: flex; justify-content: space-around;">
-    <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/XeroTech.png" alt="Description of Image 1" width="300"/>
-        <p>Description of Image 1</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/XeroTech.png" alt="Description of Image 2" width="300"/>
-        <p>Description of Image 2</p>
-    </div>
-</div>
+<table>
+    <tr>
+        <td style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/XeroTech.png" alt="Description of Image 1" width="300"/>
+            <p>Description of Image 1</p>
+        </td>
+        <td style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/XeroTech.png" alt="Description of Image 2" width="300"/>
+            <p>Description of Image 2</p>
+        </td>
+    </tr>
+</table>
+
 
 
 ### Co-founder  
