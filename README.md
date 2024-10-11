@@ -34,21 +34,26 @@ _2018 - May 2022_
 **OLA Krutrim**  
 _January 2023 - August 2024_
 
-- As the **founding member, built India's first LLM Chatbot for indic languages**(https://olakrutrim.com/) and developed foundational LLM models, responsible for multiple research projects in MOEs, MultiModals, LLMs, Speech, Chat Bots, etc.
+- As the **founding member, built [India's first LLM Chatbot](https://olakrutrim.com/) for indic languages** and developed foundational LLM models, responsible for multiple research projects in MOEs, MultiModals, LLMs, Speech, Chat Bots, etc.
 - Conducted experiments on supervised fine-tuning (SFT) and analysis of multilingual data. Our Krutrim SFT model **outperformed LLama2 Chat SFT** across various standard English benchmarks such as COPA, ARC, HellaSwag etc.
 - Worked as **lead researcher on the 'Orchestrator' pipeline and Web-RAG**.
 - Researched and worked on techniques like **Peft-LORA for SFTs, continual pre-training strategies, DPO.**
-- Developed live-streaming **lip-syncing models**, improving Wav2Lip accuracy by 12%.(https://twitter.com/bhash/status/1690755296275435520?s=20)
+- Developed live-streaming [**lip-syncing models**](https://twitter.com/bhash/status/1690755296275435520?s=20), improving Wav2Lip accuracy by 12%.
 - Led AI-based **Customer Care project**, automating 60% of customer interactions.
+
+![Alt text](https://github.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/Krutrim.png)
 
 ### Data Scientist  
 **OLA Electric**  
 _June 2022 - January 2023_
 
-- Improved driver allocation models using **Graph Neural Networks (GNNs)**, increasing revenue by 5%
-- Invented an autonomous **Proximity Unlock solution** for OLA e-scooters, achieving 93.7% accuracy
-- Developed a **VoiceBot** automating 86% of customer care queries, saving millions
-- Built and deployed **SoH prediction models** with 92.7% accuracy
+- Improved driver allocation model by building better features using GNNs, which brought a **5% increase** in the revenue.
+- **Invented an [autonomous Proximity Unlock solution](https://www.youtube.com/watch?v=SwIVh9cQpwk)** for OLA e-Scooters, with an **accuracy of 93.7%.**
+- Worked on Criticality Score prediction auto-response pipeline for customer queries and emails with a **90+% accuracy**.
+- Built projects regarding SoH (State of Health) prediction of batteries and time to recharge with **92.7\% accuracy** and deployed to production.
+- Devised a VoiceBot project for answering customer care queries, **automatized 86\%** of company's pipeline, saving millions.
+
+![Alt text](https://github.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/ProximityUnlock.png)
 
 ### ML Engineer  
 **Amazon**  
@@ -57,63 +62,94 @@ _January 2022 - June 2022_
 - Forecasted out-of-balance dates for advertisers using **time-series predictions** with 92.4% accuracy
 - Improved review summarization pipelines using **DistilBERT**, boosting SOTA performance by 4%
 
-### Data Science Intern  
+### Data Scientist  
 **VenueMonk**  
 _December 2020 - March 2021_
 
-- Automated 100% of image handling using **image processing techniques**
-- Developed a venue ranking model with 91.7% accuracy, deployed on AWS
+- **Automated 100\% of the image handling and validation system** of the company for their [website](https://www.venuemonk.com/) utilizing image processing techniques.
+- Deployed a venue ranking and clustering model for venues with a score of **91.7\% accuracy** on the cloud using AWS.
+
+![Alt text](https://github.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/VenueMonk.png)
+
+---
+
+## Research Experience
+
+### Team Captain and Student Researcher  
+**Unmanned Ground Vehicle Team, DTU, India**  
+_September 2018 - April 2022_
+
+- Led a team of 25 students to develop **unmanned vehicles and autonomous driving systems** for competitive purposes.
+- Designed algorithms and built navigation stacks for **obstacle avoidance and path planning**.
+- Created SOTA **lane reconstruction models** and a **monocular depth estimation models** to assist in autonomous navigation.
+- Led the team to **9th place overall** in IGVC-2020 Oakland and developed a semi-autonomous bot for lane following and obstacle avoidance for [IGVC-2019](http://www.igvc.org/results/r2019.pdf).
+- Developed the **WeedBot** with **89% accuracy** for classifying weeds in agricultural fields.
+- Led [UGV-DTU](https://www.linkedin.com/company/53525369) in national competitions like Micromouse, specializing in maze solving and pathfinding.
+
+### Co-founder  
+**XERO Technologies, Delhi, India**  
+*November 2020 - March 2021*
+
+- Founded a startup focused on Traffic Count and Classification ([Link](https://github.com/101vinayak/Traffic_Surveilance_System_XERO)), utilizing computer vision to track and classify vehicles on Indian roadways.
+- Enhanced image detection for night-time conditions through **image enhancement and data augmentation**.
+- Led the Vision team to develop an object detection algorithm for vehicles and created a system to track detected vehicles, optimizing toll collection data.
+
+### Research Assistant  
+**CALIBRE Research Community, DTU, India**  
+*January 2019 - June 2019*
+
+- Contributed to NLP projects, achieving **92.3% accuracy** in Hinglish hate speech detection.
+- Developed a **COVID-antiviral drug prediction model**, curating datasets and building a Bi-LSTM-based classification system with **94.5% accuracy** for antiviral drug recommendations.
 
 ---
 
 ## Projects
 
-### Data-Driven EEG Band Discovery with Decision Trees  
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)  
+### A Robust Underwater Plastic Detection System  
+*August 2023 - November 2023*  
+**Prof. Biplab Banerjee, IIT Bombay**  
+- Designed an improved dataset to tackle the issue of **biased datasets** for underwater plastic detection ([Link](https://drive.google.com/file/d/1DIkp71O8BdjPzVHVDTXA3XoVVXpD3UIa/view?usp=sharing)).
+- Developed models to distinguish plastic bags from jellyfish in underwater environments.
 
-- Developed a **Python** strategy for discovering optimal EEG bands based on signal power spectra
-- Achieved double the performance by identifying new band boundaries
-- Proposed method automates capturing key signal components for enhanced brain activity analysis
+### Loan Amount Sanction Prediction System  
+*September 2021 - December 2021*  
+- Built an XGBoost-based prediction model for loan sanctioning, achieving **87% accuracy** on CIPLA's Data Scientist Challenge ([Link](https://github.com/101vinayak/loan_sanction_prediction_system)).
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Smart Face Lock  
+*January 2021 - February 2021*  
+- Developed a **KNN model** combined with a CNN to detect live faces for phone privacy protection with an **error rate of 0.2%** ([Link](https://github.com/101vinayak/liveness_detection_model)).
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales  
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)  
+### Soldier Strap - Smart India Hackathon Finalist  
+*January 2020 - March 2020*  
+- Led a team to build a solution for optimizing soldier movement through clustering algorithms, resulting in a **12% increase in operational efficiency** ([Link](https://drive.google.com/file/d/1f93iOjoWe9BokOoq9d-V7yphSE7aHLn4/view?usp=sharing)).
 
-- Used **MATLAB** to train 100+ machine learning models on biometric and environmental data
-- Achieved r2 = 0.91 in estimating **particulate matter concentrations**
-- Found smaller particles are better estimated, enabling new insights into environmental-body interactions
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
----
-
-## Talks & Lectures
-
-- **Causality**: The New Science of an Old Question - GSP Seminar, Fall 2021
-- Guest Lecture: **Dimensionality Reduction** - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: **Fourier and Wavelet Transforms** - Scientific Computing (PHYS 5315), Fall 2020
-- **A Brief Introduction to Optimization** - GSP Seminar, Fall 2019
-- **Weeks of Welcome Poster Competition** - UTD, Fall 2019
-- **A Brief Introduction to Networks** - GSP Seminar, Spring 2019
+### Centaur - Unmanned Rover  
+*September 2019 - April 2020*  
+- Developed the navigation stack for lane detection using ROS for the **Centaur UGV**, achieving **9th place** at IGVC-2020 in Oakland ([Link](https://github.com/101vinayak/UGV-Centaur-NavStack)).
 
 ---
 
 ## Publications
 
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. (2019) Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning. DOI: [10.26717/BJSTR.2019.20.003446](https://doi.org/10.26717/BJSTR.2019.20.003446)
-2. Wijeratne, L.O. et al. (2020) Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 20, 99. [DOI](https://doi.org/10.3390/s20010099)
-3. Lary, D.J. et al. (2021) Autonomous Learning of New Environments with a Robotic Team Using Machine Learning. Sensors 21, 2240. [DOI](https://doi.org/10.3390/s21062240)
-4. Zhang, Y. et al. (2021) Machine Learning for Light Sensor Calibration. Sensors 21, 6259. [DOI](https://doi.org/10.3390/s21186259)
-5. Talebi, S. et al. (2022) Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022030145. [DOI](https://doi.org/10.20944/preprints202203.0145.v1)
-6. Fernando, B.A. et al. (2022) Unsupervised Blink Detection Using Eye Aspect Ratio. Preprints 2022030200. [DOI](https://doi.org/10.20944/preprints202203.0200.v1)
-7. Talebi, S. et al. (2022) Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-Fine Scales. Research Square. [DOI](https://doi.org/10.21203/rs.3.rs-1499191/v1)
-8. Lary, D.J. et al. (2022) Machine Learning, Big Data, and Spatial Tools in Environmental Health. Springer. [DOI](https://doi.org/10.1007/978-3-030-71377-5_12)
-9. Wijeratne, L.O.H. et al. (2022) Advancements in Airborne Particulate Estimation Using Machine Learning. Springer. [DOI](https://doi.org/10.1007/978-3-030-71377-5_13)
+- **V. Dhruv, R. Awasthi and S. Pawar**, "User Intent-Based Proximity Unlock: A Novel Approach For Secure Vehicle Unlocking", IOSR Journal of Computer Engineering (IOSR-JCE), Volume 25, Issue 6, 2023 ([Link](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue6/Ser-1/F2506013237.pdf)).
+- **H. Kaushal, V. Dhruv and I. Sreedevi**, "Minotaur - A Single Lane Navigation System", 2022 8th International Conference on Automation, Robotics, and Applications (ICARA), 2022 ([Link](https://ieeexplore.ieee.org/abstract/document/9738520)).
+- **V. Dhruv, A. Jha, and D. Chandel**, "Traffic Count and Classification Application", Technical Report, Xero Technologies, 2021 ([Link](https://drive.google.com/file/d/1_2r22zoIf0J-dDx7DzahHLIw_-rVp_-S/view?usp=sharing)).
 
 ---
 
-## Online Presence
+## Awards, Honors, and Scholarships
 
-- [Data Science YouTube Channel](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-- [Data Science Blog on Medium](https://medium.com/@shawhin)
+- **1st Place**, NASA Astronomy Olympiad (Senior Secondary Level).
+- **College Finalist**, Smart India Hackathon 2020.
+- **9th Place Overall**, **5th in Cyber Security**, IGVC-2019, Oakland, Michigan.
+- **Gold Star** on HackerRank in Problem Solving (C++) and **3-star rating** on CodeChef (Global rank: 354).
+
+---
+
+## Positions of Responsibility
+
+- **Team Captain**, UGV-DTU (2020-2022), guiding the team through major robotics competitions and continuing as a team advisor.
+- **Class Representative**, CO327 Course, 5th semester (Aug 2020 - Dec 2020).
+- **Volleyball Team Captain**, 10th Standard (2015-2016).
+- **Head Boy**, Senior Secondary School (2017-2018).
+- **Head of Disciplinary Committee**, Senior Secondary School (2016-2017).
