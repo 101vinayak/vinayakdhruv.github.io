@@ -34,11 +34,12 @@ _2018 - May 2022_
 **OLA Krutrim**  
 _January 2023 - August 2024_
 
-- Built India’s first **LLM chatbot** for Indic languages
-- Developed foundational models for **MOEs, LLMs, Multimodals, Speech, and Chatbots**
-- Conducted supervised fine-tuning (SFT), outperforming LLaMA2 Chat SFT across benchmarks like COPA, ARC, and HellaSwag
-- Developed live-streaming **lip-syncing models**, improving Wav2Lip accuracy by 12%
-- Led AI-based **Customer Care project**, automating 60% of customer interactions
+- As the **founding member, built India's first LLM Chatbot for indic languages**(https://olakrutrim.com/) and developed foundational LLM models, responsible for multiple research projects in MOEs, MultiModals, LLMs, Speech, Chat Bots, etc.
+- Conducted experiments on supervised fine-tuning (SFT) and analysis of multilingual data. Our Krutrim SFT model **outperformed LLama2 Chat SFT** across various standard English benchmarks such as COPA, ARC, HellaSwag etc.
+- Worked as **lead researcher on the 'Orchestrator' pipeline and Web-RAG**.
+- Researched and worked on techniques like **Peft-LORA for SFTs, continual pre-training strategies, DPO.**
+- Developed live-streaming **lip-syncing models**, improving Wav2Lip accuracy by 12%.(https://twitter.com/bhash/status/1690755296275435520?s=20)
+- Led AI-based **Customer Care project**, automating 60% of customer interactions.
 
 ### Data Scientist  
 **OLA Electric**  
