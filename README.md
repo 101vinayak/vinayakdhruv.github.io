@@ -86,20 +86,24 @@ _September 2018 - April 2022_
 - Developed the **WeedBot** with **89% accuracy** for classifying weeds in agricultural fields.
 - Led [UGV-DTU](https://www.linkedin.com/company/53525369) in national competitions like Micromouse, specializing in maze solving and pathfinding.
 
+![Alt text](https://github.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/VenueMonk.png)
+
 ### Co-founder  
 **XERO Technologies, Delhi, India**  
 *November 2020 - March 2021*
 
-- Founded a startup focused on Traffic Count and Classification ([Link](https://github.com/101vinayak/Traffic_Surveilance_System_XERO)), utilizing computer vision to track and classify vehicles on Indian roadways.
+- Founded a startup focused on [Traffic Count and Classification](https://github.com/101vinayak/Traffic_Surveilance_System_XERO)), utilizing computer vision to track and classify vehicles on Indian roadways.
 - Enhanced image detection for night-time conditions through **image enhancement and data augmentation**.
 - Led the Vision team to develop an object detection algorithm for vehicles and created a system to track detected vehicles, optimizing toll collection data.
+
+![Alt text](https://github.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/VenueMonk.png)
 
 ### Research Assistant  
 **CALIBRE Research Community, DTU, India**  
 *January 2019 - June 2019*
 
 - Contributed to NLP projects, achieving **92.3% accuracy** in Hinglish hate speech detection.
-- Developed a **COVID-antiviral drug prediction model**, curating datasets and building a Bi-LSTM-based classification system with **94.5% accuracy** for antiviral drug recommendations.
+- Developed a [COVID-antiviral drug prediction](https://github.com/101vinayak/Covid_Antiviral_Prediction) model, curating datasets and building a Bi-LSTM-based classification system with **94.5% accuracy** for antiviral drug recommendations.
 
 ---
 
@@ -108,24 +112,30 @@ _September 2018 - April 2022_
 ### A Robust Underwater Plastic Detection System  
 *August 2023 - November 2023*  
 **Prof. Biplab Banerjee, IIT Bombay**  
-- Designed an improved dataset to tackle the issue of **biased datasets** for underwater plastic detection ([Link](https://drive.google.com/file/d/1DIkp71O8BdjPzVHVDTXA3XoVVXpD3UIa/view?usp=sharing)).
-- Developed models to distinguish plastic bags from jellyfish in underwater environments.
+- Designed an improved dataset to tackle the issue of **biased datasets across globe** for [underwater plastic detection](https://docs.google.com/presentation/d/1Oa0EDRlMmAJ9CZbyhhDgLj60_izeJjd2/edit?usp=sharing&ouid=107892202379410273971&rtpof=true&sd=true)).
+- Developed models to **distinguish plastic bags from jellyfish** in underwater environments.
+
+![Alt text](https://github.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/TurtleBot.png)
 
 ### Loan Amount Sanction Prediction System  
 *September 2021 - December 2021*  
-- Built an XGBoost-based prediction model for loan sanctioning, achieving **87% accuracy** on CIPLA's Data Scientist Challenge ([Link](https://github.com/101vinayak/loan_sanction_prediction_system)).
+- Built an XGBoost-based [prediction model](https://github.com/101vinayak/loan_sanction_prediction_system) for loan sanctioning, achieving **87% accuracy** on CIPLA's Data Scientist Challenge.
 
 ### Smart Face Lock  
 *January 2021 - February 2021*  
-- Developed a **KNN model** combined with a CNN to detect live faces for phone privacy protection with an **error rate of 0.2%** ([Link](https://github.com/101vinayak/liveness_detection_model)).
+- Developed a **Liveliness detection model** to [detect live faces](https://github.com/101vinayak/liveness_detection_model) for phone privacy protection with an **error rate of 0.2%**.
+
+![Alt text](https://github.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/SmartLock.gif)
 
 ### Soldier Strap - Smart India Hackathon Finalist  
 *January 2020 - March 2020*  
-- Led a team to build a solution for optimizing soldier movement through clustering algorithms, resulting in a **12% increase in operational efficiency** ([Link](https://drive.google.com/file/d/1f93iOjoWe9BokOoq9d-V7yphSE7aHLn4/view?usp=sharing)).
+- Led a team to build a [solution for optimizing soldier movement]([https://drive.google.com/file/d/1f93iOjoWe9BokOoq9d-V7yphSE7aHLn4/view?usp=sharing](https://drive.google.com/file/d/1e32NFHqLlWYhMl7PRoJ5Yq5EC7UBksvp/view?usp=sharing)) through clustering algorithms, resulting in a **12% increase in operational efficiency**.
 
 ### Centaur - Unmanned Rover  
 *September 2019 - April 2020*  
-- Developed the navigation stack for lane detection using ROS for the **Centaur UGV**, achieving **9th place** at IGVC-2020 in Oakland ([Link](https://github.com/101vinayak/UGV-Centaur-NavStack)).
+- Developed the navigation stack for lane detection using ROS for the **Centaur UGV**, achieving **9th place** at [IGVC-2020](https://github.com/101vinayak/UGV-Centaur-NavStack) in Oakland.
+
+![Alt text](https://github.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/Centaur.png)
 
 ---
 
@@ -153,3 +163,16 @@ _September 2018 - April 2022_
 - **Volleyball Team Captain**, 10th Standard (2015-2016).
 - **Head Boy**, Senior Secondary School (2017-2018).
 - **Head of Disciplinary Committee**, Senior Secondary School (2016-2017).
+
+---
+
+## Hobbies and Extracurricular Activities
+---
+
+- **Volleyball**: Led the school volleyball team in several tournaments.
+- **Chess**: Participated in national-level chess championships.
+- **Trekking**: Enjoy exploring nature and trekking in remote areas.
+- **Traveling**: Passionate about visiting new places and learning about different cultures.
+- **Reading**: Avid reader of novels, particularly in science fiction and historical fiction genres.
+
+---
