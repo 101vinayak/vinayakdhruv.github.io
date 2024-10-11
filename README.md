@@ -41,7 +41,7 @@ _January 2023 - August 2024_
 - Developed live-streaming [**lip-syncing models**](https://twitter.com/bhash/status/1690755296275435520?s=20), improving Wav2Lip accuracy by 12%.
 - Led AI-based **Customer Care project**, automating 60% of customer interactions.
 
-![Alt text](https://github.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/Krutrim.png)
+![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Krutrim.png)
 
 ### Data Scientist  
 **OLA Electric**  
@@ -53,7 +53,7 @@ _June 2022 - January 2023_
 - Built projects regarding SoH (State of Health) prediction of batteries and time to recharge with **92.7\% accuracy** and deployed to production.
 - Devised a VoiceBot project for answering customer care queries, **automatized 86\%** of company's pipeline, saving millions.
 
-![Alt text](https://github.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/ProximityUnlock.png)
+![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/ProximityUnlock.png)
 
 ### ML Engineer  
 **Amazon**  
