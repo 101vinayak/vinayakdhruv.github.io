@@ -109,7 +109,18 @@ _September 2018 - April 2022_
 - Enhanced image detection for night-time conditions through **image enhancement and data augmentation**.
 - Led the Vision team to develop an object detection algorithm for vehicles and created a system to track detected vehicles, optimizing toll collection data.
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/XeroTech.png)
+<table>
+    <tr>
+        <td style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Day.png" alt="Description of Image 1" width="600"/>
+            <p>Our tracking pipeline working in Daytime at multiple places in Delhi.</p>
+        </td>
+        <td style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Night.png" alt="Description of Image 2" width="800"/>
+            <p>Our tracking pipeline working at Nigth at multiple places in Delhi.</p>
+        </td>
+    </tr>
+</table>
 
 ### Research Assistant  
 **CALIBRE Research Community, DTU, India**  
