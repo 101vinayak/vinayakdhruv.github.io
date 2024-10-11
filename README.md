@@ -3,7 +3,7 @@
 #### Technical Skills: Generative AI, LLMs, Foundational Models, MOEs, Multimodals, Prompt Engineering, NLP, Computer Vision, Machine Learning, Deep Learning, PyTorch, RAG Systems, AWS, Time Series, EDA, Parallel Computing, Linux, C++, JAX
 
 ## Education
-1. M.S. Machine Learning with Specialization in AI | University of Maryland at College Park (August 2024 - Expected December 2025)
+M.S. Machine Learning with Specialization in AI | University of Maryland at College Park (August 2024 - Expected December 2025)
     Highlighted Coursework: Multimodality, NLP, Probability & Statistics, Machine Learning Fundamentals
     Research: Efficient MOE Architectures, Tokenizer Optimality, Multimodal Benchmarks, MLLMs, Machine Vision, NLP
 
