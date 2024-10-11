@@ -90,11 +90,11 @@ _September 2018 - April 2022_
     <tr>
         <td style="text-align: center;">
             <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/AutonomousBot.png" alt="Description of Image 1" width="600"/>
-            <p>Description of Image 1</p>
+            <p>Simulations of our Navigation stack in action reconstructing and following lannes.</p>
         </td>
         <td style="text-align: center;">
             <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/LaneDet.png" alt="Description of Image 2" width="800"/>
-            <p>Description of Image 2</p>
+            <p>Architectural Flow of our Vision system.</p>
         </td>
     </tr>
 </table>
