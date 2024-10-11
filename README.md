@@ -69,7 +69,7 @@ _December 2020 - March 2021_
 - **Automated 100\% of the image handling and validation system** of the company for their [website](https://www.venuemonk.com/) utilizing image processing techniques.
 - Deployed a venue ranking and clustering model for venues with a score of **91.7\% accuracy** on the cloud using AWS.
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/VenueMonk.png)
+![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/VenueMonk.png)
 
 ---
 
@@ -86,7 +86,7 @@ _September 2018 - April 2022_
 - Developed the **WeedBot** with **89% accuracy** for classifying weeds in agricultural fields.
 - Led [UGV-DTU](https://www.linkedin.com/company/53525369) in national competitions like Micromouse, specializing in maze solving and pathfinding.
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/VenueMonk.png)
+![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/UGVTeam.png)
 
 ### Co-founder  
 **XERO Technologies, Delhi, India**  
