@@ -1,6 +1,9 @@
-Technical Skills: Generative AI, LLMs, Foundational Models, MOEs, Multimodals, Prompt Engineering, NLP, Computer Vision, Machine Learning, Deep Learning, PyTorch, RAG Systems, AWS, Time Series, EDA, Parallel Computing, Linux, C++, JAX
-Education
-M.S., Machine Learning with Specialization in Generative AI | University of Maryland College Park (August 2024 - Expected December 2025)
+# AI Researcher and Data Scientist
+
+#### Technical Skills: Generative AI, LLMs, Foundational Models, MOEs, Multimodals, Prompt Engineering, NLP, Computer Vision, Machine Learning, Deep Learning, PyTorch, RAG Systems, AWS, Time Series, EDA, Parallel Computing, Linux, C++, JAX
+
+## Education
+M.S. Machine Learning with Specialization in AI | University of Maryland at College Park (August 2024 - Expected December 2025)
 
 Highlighted Coursework: Multimodality, NLP, Probability & Statistics, Machine Learning Fundamentals
 Research: Generative AI, LLMs, MOEs, Multimodals, Foundational Models, NLP, Vision
@@ -32,7 +35,7 @@ Automated 100% of the company’s image handling system using image processing t
 Developed and deployed a venue ranking model with a 91.7% accuracy on AWS.
 
 
-# Data Scientist
+
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
