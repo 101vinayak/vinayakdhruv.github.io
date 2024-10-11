@@ -87,12 +87,12 @@ _September 2018 - April 2022_
 - Led [UGV-DTU](https://www.linkedin.com/company/53525369) in national competitions like Micromouse, specializing in maze solving and pathfinding.
 
 <div style="display: inline-block; text-align: center; width: 48%;">
-    <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/AutonomousBot.png" alt="Description of Image 1" width="100%"/>
+    <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/AutonomousBot.png" alt="Description of Image 1" width="20%"/>
     <p>Description of Image 1</p>
 </div>
 
 <div style="display: inline-block; text-align: center; width: 48%;">
-    <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/LaneDet.png" alt="Description of Image 2" width="100%"/>
+    <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/LaneDet.png" alt="Description of Image 2" width="20%"/>
     <p>Description of Image 2</p>
 </div>
 
