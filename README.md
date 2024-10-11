@@ -116,7 +116,7 @@ _September 2018 - April 2022_
             <p>Our tracking pipeline working in Daytime at multiple places in Delhi.</p>
         </td>
         <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Night.png" alt="Description of Image 2" width="800"/>
+            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Night.png" alt="Description of Image 2" width="600"/>
             <p>Our tracking pipeline working at Nigth at multiple places in Delhi.</p>
         </td>
     </tr>
