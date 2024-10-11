@@ -93,7 +93,7 @@ _September 2018 - April 2022_
             <p>Simulations of our Navigation stack in action reconstructing and following lannes.</p>
         </td>
         <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/LaneDet.png" alt="Description of Image 2" width="800"/>
+            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/LaneDet.png" alt="Description of Image 2" width="1000"/>
             <p>Architectural Flow of our Vision system.</p>
         </td>
     </tr>
