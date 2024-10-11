@@ -82,11 +82,14 @@ _September 2018 - April 2022_
 - Led a team of 25 students to develop **unmanned vehicles and autonomous driving systems** for competitive purposes.
 - Designed algorithms and built navigation stacks for **obstacle avoidance and path planning**.
 - Created SOTA **lane reconstruction models** and a **monocular depth estimation models** to assist in autonomous navigation.
-- Led the team to **9th place overall** in IGVC-2020 Oakland and developed a semi-autonomous bot for lane following and obstacle avoidance for [IGVC-2019](http://www.igvc.org/results/r2019.pdf).
+- Led the team to **9th place overall** in IGVC-2020 Oakland and developed a [semi-autonomous bot for lane following](https://github.com/101vinayak/UGV-Centaur-NavStack) and obstacle avoidance for [IGVC-2019](http://www.igvc.org/results/r2019.pdf).
 - Developed the **WeedBot** with **89% accuracy** for classifying weeds in agricultural fields.
 - Led [UGV-DTU](https://www.linkedin.com/company/53525369) in national competitions like Micromouse, specializing in maze solving and pathfinding.
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/UGVTeam.png)
+![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/AutonomousBot.png)
+
+
+![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/LaneDet.png)
 
 ### Co-founder  
 **XERO Technologies, Delhi, India**  
@@ -96,7 +99,7 @@ _September 2018 - April 2022_
 - Enhanced image detection for night-time conditions through **image enhancement and data augmentation**.
 - Led the Vision team to develop an object detection algorithm for vehicles and created a system to track detected vehicles, optimizing toll collection data.
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/VenueMonk.png)
+![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/XeroTech.png)
 
 ### Research Assistant  
 **CALIBRE Research Community, DTU, India**  
@@ -115,7 +118,7 @@ _September 2018 - April 2022_
 - Designed an improved dataset to tackle the issue of **biased datasets across globe** for [underwater plastic detection](https://docs.google.com/presentation/d/1Oa0EDRlMmAJ9CZbyhhDgLj60_izeJjd2/edit?usp=sharing&ouid=107892202379410273971&rtpof=true&sd=true)).
 - Developed models to **distinguish plastic bags from jellyfish** in underwater environments.
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/TurtleBot.png)
+![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/TurtleBot.png)
 
 ### Loan Amount Sanction Prediction System  
 *September 2021 - December 2021*  
@@ -125,7 +128,7 @@ _September 2018 - April 2022_
 *January 2021 - February 2021*  
 - Developed a **Liveliness detection model** to [detect live faces](https://github.com/101vinayak/liveness_detection_model) for phone privacy protection with an **error rate of 0.2%**.
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/SmartLock.gif)
+![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/SmartLock.gif)
 
 ### Soldier Strap - Smart India Hackathon Finalist  
 *January 2020 - March 2020*  
@@ -135,7 +138,7 @@ _September 2018 - April 2022_
 *September 2019 - April 2020*  
 - Developed the navigation stack for lane detection using ROS for the **Centaur UGV**, achieving **9th place** at [IGVC-2020](https://github.com/101vinayak/UGV-Centaur-NavStack) in Oakland.
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/tree/main/assets/img/Centaur.png)
+![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Centaur.png)
 
 ---
 
