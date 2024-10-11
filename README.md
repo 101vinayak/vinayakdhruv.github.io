@@ -86,10 +86,15 @@ _September 2018 - April 2022_
 - Developed the **WeedBot** with **89% accuracy** for classifying weeds in agricultural fields.
 - Led [UGV-DTU](https://www.linkedin.com/company/53525369) in national competitions like Micromouse, specializing in maze solving and pathfinding.
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/AutonomousBot.png)
+<div style="display: inline-block; text-align: center; width: 48%;">
+    <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/AutonomousBot.png" alt="Description of Image 1" width="100%"/>
+    <p>Description of Image 1</p>
+</div>
 
-
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/LaneDet.png)
+<div style="display: inline-block; text-align: center; width: 48%;">
+    <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/LaneDet.png" alt="Description of Image 2" width="100%"/>
+    <p>Description of Image 2</p>
+</div>
 
 ### Co-founder  
 **XERO Technologies, Delhi, India**  
