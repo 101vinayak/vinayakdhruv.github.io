@@ -113,7 +113,7 @@ _September 2018 - April 2022_
     <tr>
         <td style="text-align: center;">
             <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Day.png" alt="Description of Image 1" width="600"/>
-            <p>Our tracking pipeline working in Daytime at multiple places in Delhi.</p>
+            <p>Our tracking pipeline working in Day at multiple places in Delhi.</p>
         </td>
         <td style="text-align: center;">
             <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Night.png" alt="Description of Image 2" width="600"/>
