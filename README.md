@@ -38,7 +38,7 @@ _January 2023 - August 2024_
 - Conducted experiments on supervised fine-tuning (SFT) and analysis of multilingual data. Our Krutrim SFT model **outperformed LLama2 Chat SFT** across various standard English benchmarks such as COPA, ARC, HellaSwag etc.
 - Worked as **lead researcher on the 'Orchestrator' pipeline and Web-RAG**.
 - Researched and worked on techniques like **Peft-LORA for SFTs, continual pre-training strategies, DPO.**
-- Developed live-streaming [**lip-syncing models**](https://twitter.com/bhash/status/1690755296275435520?s=20), improving Wav2Lip accuracy by 12%.
+- Developed live-streaming [lip-syncing models](https://twitter.com/bhash/status/1690755296275435520?s=20), improving Wav2Lip accuracy by 12%.
 - Led AI-based **Customer Care project**, automating 60% of customer interactions.
 
 ![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Krutrim.png)
