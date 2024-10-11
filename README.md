@@ -4,8 +4,8 @@
 
 ## Education
 M.S. Machine Learning with Specialization in AI | University of Maryland at College Park (August 2024 - Expected December 2025)
-    Highlighted Coursework: Multimodality, NLP, Probability & Statistics, Machine Learning Fundamentals
-    Research: Efficient MOE Architectures, Tokenizer Optimality, Multimodal Benchmarks, MLLMs, Machine Vision, NLP
+    - Highlighted Coursework: Multimodality, NLP, Probability & Statistics, Machine Learning Fundamentals
+    - Research: Efficient MOE Architectures, Tokenizer Optimality, Multimodal Benchmarks, MLLMs, Machine Vision, NLP
 
 B.Tech., Technology | Delhi Technological University (2018 - May 2022)
 
