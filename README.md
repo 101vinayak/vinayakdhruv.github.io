@@ -28,6 +28,16 @@ _2018 - May 2022_
 
 ---
 
+## Publications
+
+- **A. Kallappa, P. Kamble, V. Dhruv**, Krutrim LLM : Multilingual Foundational Model for over a Billion People, 2025 ([Link](https://www.arxiv.org/pdf/2502.09642)).
+- **A. Kallappa, P. Kamble, V. Dhruv**, Krutrim LLM: A Novel Tokenization Strategy for Multilingual Indic Languages, 2025 ([Link](https://arxiv.org/pdf/2407.12481)).
+- **V. Dhruv, R. Awasthi and S. Pawar**, "User Intent-Based Proximity Unlock: A Novel Approach For Secure Vehicle Unlocking", IOSR Journal of Computer Engineering (IOSR-JCE), Volume 25, Issue 6, 2023 ([Link](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue6/Ser-1/F2506013237.pdf)).
+- **H. Kaushal, V. Dhruv and I. Sreedevi**, "Minotaur - A Single Lane Navigation System", 2022 8th International Conference on Automation, Robotics, and Applications (ICARA), 2022 ([Link](https://ieeexplore.ieee.org/abstract/document/9738520)).
+- **V. Dhruv, A. Jha, and D. Chandel**, "Traffic Count and Classification Application", Technical Report, Xero Technologies, 2021 ([Link](https://drive.google.com/file/d/1_2r22zoIf0J-dDx7DzahHLIw_-rVp_-S/view?usp=sharing)).
+
+---
+
 ## Work Experience
 
 ### AI Research Intern  
@@ -170,16 +180,6 @@ _September 2018 - April 2022_
 - Developed the navigation stack for lane detection using ROS for the **Centaur UGV**, achieving **9th place** at [IGVC-2020](https://github.com/101vinayak/UGV-Centaur-NavStack) in Oakland.
 
 ![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Centaur.png)
-
----
-
-## Publications
-
-- **A. Kallappa, P. Kamble, V. Dhruv**, Krutrim LLM : Multilingual Foundational Model for over a Billion People, 2025 ([Link](https://www.arxiv.org/pdf/2502.09642)).
-- **A. Kallappa, P. Kamble, V. Dhruv**, Krutrim LLM: A Novel Tokenization Strategy for Multilingual Indic Languages, 2025 ([Link](https://arxiv.org/pdf/2407.12481)).
-- **V. Dhruv, R. Awasthi and S. Pawar**, "User Intent-Based Proximity Unlock: A Novel Approach For Secure Vehicle Unlocking", IOSR Journal of Computer Engineering (IOSR-JCE), Volume 25, Issue 6, 2023 ([Link](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue6/Ser-1/F2506013237.pdf)).
-- **H. Kaushal, V. Dhruv and I. Sreedevi**, "Minotaur - A Single Lane Navigation System", 2022 8th International Conference on Automation, Robotics, and Applications (ICARA), 2022 ([Link](https://ieeexplore.ieee.org/abstract/document/9738520)).
-- **V. Dhruv, A. Jha, and D. Chandel**, "Traffic Count and Classification Application", Technical Report, Xero Technologies, 2021 ([Link](https://drive.google.com/file/d/1_2r22zoIf0J-dDx7DzahHLIw_-rVp_-S/view?usp=sharing)).
 
 ---
 
