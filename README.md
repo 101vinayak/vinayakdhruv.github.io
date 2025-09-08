@@ -30,6 +30,16 @@ _2018 - May 2022_
 
 ## Work Experience
 
+### AI Research Intern  
+**Cohere AI**  
+_May 2025 – August 2025_  
+
+- As part of the **Generative AI Research team**, contributed to advancing **vision-language models [Command R & Command A Vision](https://cohere.com/blog/command-a-vision)** and **multimodal foundation models**.  
+- Developed **evaluation strategies and frameworks for agentic workflows**, enhancing reasoning capabilities of flagship models for **enterprise environments**.  
+- Led research initiatives to strengthen **multimodal grounding and model interpretability**, improving robustness in real-world applications.  
+
+![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/image.png)
+
 ### AI Research Scientist  
 **OLA Krutrim**  
 _January 2023 - August 2024_
