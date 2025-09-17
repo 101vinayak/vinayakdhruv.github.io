@@ -1,6 +1,5 @@
 # Vinayak Dhruv — AI Researcher & Data Scientist
 
-[![Website](https://img.shields.io/badge/Website-vinayakdhruv.com-black)](https://vinayakdhruv.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinayak--dhruv--a257bb174-blue)](https://www.linkedin.com/in/vinayak-dhruv-a257bb174/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-1a73e8)](https://scholar.google.com/citations?user=CpGdFWAAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-vinayak.dhruv.personal%40gmail.com-green)](mailto:vinayak.dhruv.personal@gmail.com)
