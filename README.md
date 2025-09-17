@@ -201,6 +201,5 @@ _September 2019 – April 2020_
 
 - **Email:** [vinayak.dhruv.personal@gmail.com](mailto:vinayak.dhruv.personal@gmail.com)  
 - **Phone:** +1 (240) 413-9715  
-- **Website:** [vinayakdhruv.com](https://vinayakdhruv.com)
 
 > If you’re working on **Agentic Frameworks**, **RAG architectures**, **Foundational Models**, **efficient MoE**, **multimodal grounding**, or **eval for agents/VLMs**, I’d love to connect.
