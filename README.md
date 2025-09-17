@@ -1,214 +1,207 @@
-# AI Researcher and Data Scientist Portfolio
+# Vinayak Dhruv — AI Researcher & Data Scientist
+
+[![Website](https://img.shields.io/badge/Website-vinayakdhruv.com-black)](https://vinayakdhruv.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinayak--dhruv--a257bb174-blue)](https://www.linkedin.com/in/vinayak-dhruv-a257bb174/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-1a73e8)](https://scholar.google.com/citations?user=CpGdFWAAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-vinayak.dhruv.personal%40gmail.com-green)](mailto:vinayak.dhruv.personal@gmail.com)
+
+---
+
+## About Me
+
+I’m an AI researcher focused on **Agentic Frameworks**, **RAG architectures**, **Foundational Models**, **efficient Mixture-of-Experts (MoE)**, **multilingual tokenization**, and **multimodal/VLM evaluation**. I’ve contributed to **Krutrim LLM** (Indic-first multilingual models and tokenizer work) and built **agentic evaluation** frameworks for vision-language models during my **Cohere** internship. I enjoy turning research ideas into production-grade systems and measuring what matters—benchmarks, latency, and business impact.
+
+- **Current:** M.S. in Machine Learning @ **University of Maryland, College Park** (Aug 2024 – Dec 2025, expected)  
+- **Interests:** Efficient MoE & routing, multilingual NLP, multimodal grounding, eval & agents  
+- **Open to:** Research Scientist / Research Engineer / Applied Scientist roles (’26 start)
+
+---
 
 ## Technical Skills
-- **Generative AI**: LLMs, Foundational Models, Mixture of Experts (MOEs), Multimodal Models, Prompt Engineering
-- **Machine Learning & Deep Learning**: NLP, Computer Vision, Time Series, Retrieval-Augmented Generation (RAG) Systems, PyTorch, Parallel Computing
-- **Cloud & Infrastructure**: AWS, Linux, Snowflake
-- **Programming Languages**: Python, C++, JAX, SQL, MATLAB
-- **Data Science**: Exploratory Data Analysis (EDA), Forecasting, Bayesian Methods
+
+- **Generative AI:** LLMs, Foundational Models, **Mixture of Experts (MoE)**, Multimodal Models, Prompt Engineering, RAG
+- **ML & DL:** NLP, Computer Vision, Time Series, PyTorch, Multi-GPU/Parallel Computing
+- **Cloud & Infra:** AWS, Linux, Docker, Kubernetes, JAX, Snowflake
+- **Programming:** Python, C++, SQL, MATLAB
+- **Data Science:** EDA, Forecasting, Bayesian Methods, Experimentation & Evaluation
 
 ---
 
 ## Education
 
-### M.S. Machine Learning with Specialization in AI
+### M.S. in Machine Learning (Specialization: Generative AI)  
 **University of Maryland, College Park**  
-_August 2024 - Expected December 2025_  
+_Aug 2024 – **Expected Dec 2025**_  
+- **Highlighted Coursework:** Multimodality, NLP, Probability & Statistics, ML Fundamentals  
+- **Research:** Efficient MoE Architectures, Tokenizer Optimality, Multimodal Benchmarks, MLLMs, Machine Vision
 
-- **Highlighted Coursework**: Multimodality, NLP, Probability & Statistics, Machine Learning Fundamentals
-- **Research**: Efficient MOE Architectures, Tokenizer Optimality, Multimodal Benchmarks, MLLMs and Machine Vision
-
-### B.Tech., Technology
+### B.Tech. (Technology)  
 **Delhi Technological University**  
-_2018 - May 2022_  
-**GPA**: 3.4  
-
-- **Highlighted Coursework**: Mathematics 1 & 2, Programming Fundamentals, Probability & Statistics, Machine Learning, Deep Learning, Bayesian Methods, Computer Vision
-- **Research**: Computer Vision, NLP, Autonomous Systems, IoT Systems
+_2018 – May 2022_ · **GPA:** 3.4  
+- **Highlighted Coursework:** Mathematics I & II, Programming Fundamentals, Probability & Statistics, ML, DL, Bayesian Methods, Computer Vision  
+- **Research:** Computer Vision, NLP, Autonomous Systems, IoT
 
 ---
 
 ## Publications
 
-- **A. Kallappa, P. Kamble, V. Dhruv**, Krutrim LLM : Multilingual Foundational Model for over a Billion People, 2025 ([Link](https://www.arxiv.org/pdf/2502.09642)).
-- **A. Kallappa, P. Kamble, V. Dhruv**, Krutrim LLM: A Novel Tokenization Strategy for Multilingual Indic Languages, 2025 ([Link](https://arxiv.org/pdf/2407.12481)).
-- **V. Dhruv, R. Awasthi and S. Pawar**, "User Intent-Based Proximity Unlock: A Novel Approach For Secure Vehicle Unlocking", IOSR Journal of Computer Engineering (IOSR-JCE), Volume 25, Issue 6, 2023 ([Link](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue6/Ser-1/F2506013237.pdf)).
-- **H. Kaushal, V. Dhruv and I. Sreedevi**, "Minotaur - A Single Lane Navigation System", 2022 8th International Conference on Automation, Robotics, and Applications (ICARA), 2022 ([Link](https://ieeexplore.ieee.org/abstract/document/9738520)).
-- **V. Dhruv, A. Jha, and D. Chandel**, "Traffic Count and Classification Application", Technical Report, Xero Technologies, 2021 ([Link](https://drive.google.com/file/d/1_2r22zoIf0J-dDx7DzahHLIw_-rVp_-S/view?usp=sharing)).
+- **A. Kallappa, P. Kamble, V. Dhruv**, *Krutrim LLM: Multilingual Foundational Model for Over a Billion People*, 2025. [[PDF]](https://www.arxiv.org/pdf/2502.09642)  
+- **A. Kallappa, P. Kamble, V. Dhruv**, *Krutrim LLM: A Novel Tokenization Strategy for Multilingual Indic Languages*, 2025. [[PDF]](https://arxiv.org/pdf/2407.12481)  
+- **V. Dhruv, R. Awasthi, S. Pawar**, *User Intent-Based Proximity Unlock: A Novel Approach for Secure Vehicle Unlocking*, IOSR-JCE 25(6), 2023. [[PDF]](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue6/Ser-1/F2506013237.pdf)  
+- **H. Kaushal, V. Dhruv, I. Sreedevi**, *Minotaur – A Single Lane Navigation System*, ICARA 2022. [[Abstract]](https://ieeexplore.ieee.org/abstract/document/9738520)  
+- **V. Dhruv, A. Jha, D. Chandel**, *Traffic Count and Classification Application*, Technical Report, Xero Technologies, 2021. [[PDF]](https://drive.google.com/file/d/1_2r22zoIf0J-dDx7DzahHLIw_-rVp_-S/view?usp=sharing)
 
 ---
 
 ## Work Experience
 
-### AI Research Intern  
-**Cohere AI**  
-_May 2025 – August 2025_  
+### AI Research Intern — **Cohere**  
+_May 2025 – September 2025_  
+- Contributed to **vision-language models** ([Command R / Command A Vision](https://cohere.com/blog/command-a-vision)) and **multimodal foundation models**.  
+- Built **evaluation strategies** and frameworks for **agentic workflows**, improving reasoning-task reliability for **enterprise** settings.  
+- Led research initiatives on **multimodal grounding** and model interpretability to boost robustness in real-world applications.  
 
-- As part of the **Generative AI Research team**, contributed to advancing **vision-language models [Command R & Command A Vision](https://cohere.com/blog/command-a-vision)** and **multimodal foundation models**.  
-- Developed **evaluation strategies and frameworks for agentic workflows**, enhancing reasoning capabilities of flagship models for **enterprise environments**.  
-- Led research initiatives to strengthen **multimodal grounding and model interpretability**, improving robustness in real-world applications.  
+<img alt="Cohere VLMs" src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/image.png" width="800"/>
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/image.png)
+### AI Research Scientist — **OLA Krutrim**  
+_January 2023 – August 2024_  
+- Founding member for **India’s first Indic LLM chatbot** ([Krutrim](https://olakrutrim.com/)); led projects spanning **MoE**, **multimodal systems**, LLMs, speech, and chatbots.  
+- **SFT/LoRA/DPO** pipelines: Krutrim SFT **outperformed LLaMA 2 SFT** on **COPA, ARC, HellaSwag**; designed **Orchestrator** and **Web-RAG** pipelines.  
+- Improved **Wav2Lip** for multilingual lip-sync (**+12%** accuracy); deployed live-streaming capabilities.  
+- Automated **60%** of customer interactions across support flows.
 
-### AI Research Scientist  
-**OLA Krutrim**  
-_January 2023 - August 2024_
+<img alt="Krutrim" src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Krutrim.png" width="800"/>
 
-- As the **founding member, built [India's first LLM Chatbot](https://olakrutrim.com/) for indic languages** and developed foundational LLM models, responsible for multiple research projects in MOEs, MultiModals, LLMs, Speech, Chat Bots, etc.
-- Conducted experiments on supervised fine-tuning (SFT) and analysis of multilingual data. Our Krutrim SFT model **outperformed LLama2 Chat SFT** across various standard English benchmarks such as COPA, ARC, HellaSwag etc.
-- Worked as **lead researcher on the 'Orchestrator' pipeline and Web-RAG**.
-- Researched and worked on techniques like **Peft-LORA for SFTs, continual pre-training strategies, DPO.**
-- Developed live-streaming [lip-syncing models](https://twitter.com/bhash/status/1690755296275435520?s=20), improving Wav2Lip accuracy by 12%.
-- Led AI-based **Customer Care project**, automating 60% of customer interactions.
+### Data Scientist — **OLA Electric**  
+_June 2022 – January 2023_  
+- Improved driver allocation with stronger features (incl. **GNNs**), delivering a **5% revenue lift**.  
+- **Proximity Unlock** (autonomous): **93.7% accuracy** for e-scooters. [[Demo]](https://www.youtube.com/watch?v=SwIVh9cQpwk)  
+- Criticality Score prediction pipeline (**90%+** accuracy) and **battery SoH** prediction (**92.7%** accuracy) deployed to production.  
+- VoiceBot for customer care; automated **86%** of pipeline volume.
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Krutrim.png)
+<img alt="Proximity Unlock" src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/ProximityUnlock.png" width="800"/>
 
-### Data Scientist  
-**OLA Electric**  
-_June 2022 - January 2023_
+### ML Engineer — **Amazon**  
+_January 2022 – June 2022_  
+- Forecasted advertiser out-of-balance dates via time-series models (**92.4%** accuracy).  
+- Improved **DistilBERT** review-summarization pipeline by **+4%** over prior SOTA baseline.
 
-- Improved driver allocation model by building better features using GNNs, which brought a **5% increase** in the revenue.
-- **Invented an [autonomous Proximity Unlock solution](https://www.youtube.com/watch?v=SwIVh9cQpwk)** for OLA e-Scooters, with an **accuracy of 93.7%.**
-- Worked on Criticality Score prediction auto-response pipeline for customer queries and emails with a **90+% accuracy**.
-- Built projects regarding SoH (State of Health) prediction of batteries and time to recharge with **92.7\% accuracy** and deployed to production.
-- Devised a VoiceBot project for answering customer care queries, **automatized 86\%** of company's pipeline, saving millions.
+### Data Scientist — **VenueMonk**  
+_December 2020 – March 2021_  
+- Automated **100%** of image handling and validation for the [VenueMonk](https://www.venuemonk.com/) platform.  
+- Built ranking & clustering models; **91.7%** accuracy; deployed on AWS.
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/ProximityUnlock.png)
-
-### ML Engineer  
-**Amazon**  
-_January 2022 - June 2022_
-
-- Forecasted out-of-balance dates for advertisers using **time-series predictions** with 92.4% accuracy
-- Improved review summarization pipelines using **DistilBERT**, boosting SOTA performance by 4%
-
-### Data Scientist  
-**VenueMonk**  
-_December 2020 - March 2021_
-
-- **Automated 100\% of the image handling and validation system** of the company for their [website](https://www.venuemonk.com/) utilizing image processing techniques.
-- Deployed a venue ranking and clustering model for venues with a score of **91.7\% accuracy** on the cloud using AWS.
-
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/VenueMonk.png)
+<img alt="VenueMonk" src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/VenueMonk.png" width="800"/>
 
 ---
 
 ## Research Experience
 
-### Team Captain and Student Researcher  
-**Unmanned Ground Vehicle Team, DTU, India**  
-_September 2018 - April 2022_
-
-- Led a team of 25 students to develop **unmanned vehicles and autonomous driving systems** for competitive purposes.
-- Designed algorithms and built navigation stacks for **obstacle avoidance and path planning**.
-- Created SOTA **lane reconstruction models** and a **monocular depth estimation models** to assist in autonomous navigation.
-- Led the team to **9th place overall** in IGVC-2020 Oakland and developed a [semi-autonomous bot for lane following](https://github.com/101vinayak/UGV-Centaur-NavStack) and obstacle avoidance for [IGVC-2019](http://www.igvc.org/results/r2019.pdf).
-- Developed the **WeedBot** with **89% accuracy** for classifying weeds in agricultural fields.
-- Led [UGV-DTU](https://www.linkedin.com/company/53525369) in national competitions like Micromouse, specializing in maze solving and pathfinding.
+### Team Captain & Student Researcher — **UGV Team, DTU (India)**  
+_September 2018 – April 2022_  
+- Led a 25-member team building **UGVs and autonomous driving stacks** (obstacle avoidance, path planning).  
+- Delivered lane reconstruction and **monocular depth estimation** for navigation.  
+- **IGVC-2020** (Oakland): **9th overall**; built semi-autonomous lane-following and obstacle-avoidance systems.  
+- Developed **WeedBot** (89% weed classification accuracy); led [UGV-DTU](https://www.linkedin.com/company/53525369) in national competitions including **Micromouse**.
 
 <table>
-    <tr>
-        <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/AutonomousBot.png" alt="Description of Image 1" width="600"/>
-            <p>Simulations of our Navigation stack in action reconstructing and following lannes.</p>
-        </td>
-        <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/LaneDet.png" alt="Description of Image 2" width="1000"/>
-            <p>Architectural Flow of our Vision system.</p>
-        </td>
-    </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/AutonomousBot.png" alt="Navigation stack simulation" width="520"/>
+      <p><em>Navigation stack simulation reconstructing and following lanes.</em></p>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/LaneDet.png" alt="Vision system architecture" width="520"/>
+      <p><em>Vision system architecture.</em></p>
+    </td>
+  </tr>
 </table>
 
-
-
-### Co-founder  
-**XERO Technologies, Delhi, India**  
-*November 2020 - March 2021*
-
-- Founded a startup focused on [Traffic Count and Classification](https://github.com/101vinayak/Traffic_Surveilance_System_XERO)), utilizing computer vision to track and classify vehicles on Indian roadways.
-- Enhanced image detection for night-time conditions through **image enhancement and data augmentation**.
-- Led the Vision team to develop an object detection algorithm for vehicles and created a system to track detected vehicles, optimizing toll collection data.
+### Co-founder — **XERO Technologies (Delhi, India)**  
+_November 2020 – March 2021_  
+- Built [traffic counting & classification](https://github.com/101vinayak/Traffic_Surveilance_System_XERO) on Indian roadways with CV pipelines for detection and tracking, supporting toll operations.  
+- Enhanced night-time robustness via image enhancement and data augmentation.
 
 <table>
-    <tr>
-        <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Day.png" alt="Description of Image 1" width="600"/>
-            <p>Our tracking pipeline working in Day at multiple places in Delhi.</p>
-        </td>
-        <td style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Night.png" alt="Description of Image 2" width="600"/>
-            <p>Our tracking pipeline working at Nigth at multiple places in Delhi.</p>
-        </td>
-    </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Day.png" alt="Daytime tracking" width="520"/>
+      <p><em>Tracking pipeline (daytime) at multiple Delhi locations.</em></p>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Night.png" alt="Night tracking" width="520"/>
+      <p><em>Tracking pipeline (night) across the city.</em></p>
+    </td>
+  </tr>
 </table>
 
-### Research Assistant  
-**CALIBRE Research Community, DTU, India**  
-*January 2019 - June 2019*
-
-- Contributed to NLP projects, achieving **92.3% accuracy** in Hinglish hate speech detection.
-- Developed a [COVID-antiviral drug prediction](https://github.com/101vinayak/Covid_Antiviral_Prediction) model, curating datasets and building a Bi-LSTM-based classification system with **94.5% accuracy** for antiviral drug recommendations.
+### Research Assistant — **CALIBRE Research Community, DTU**  
+_January 2019 – June 2019_  
+- Built **Hinglish hate-speech** detection (**92.3%** accuracy).  
+- Developed a [COVID antiviral drug prediction](https://github.com/101vinayak/Covid_Antiviral_Prediction) model (Bi-LSTM; **94.5%** accuracy).
 
 ---
 
 ## Projects
 
-### A Robust Underwater Plastic Detection System  
-*August 2023 - November 2023*  
-**Prof. Biplab Banerjee, IIT Bombay**  
-- Designed an improved dataset to tackle the issue of **biased datasets across globe** for [underwater plastic detection](https://docs.google.com/presentation/d/1Oa0EDRlMmAJ9CZbyhhDgLj60_izeJjd2/edit?usp=sharing&ouid=107892202379410273971&rtpof=true&sd=true)).
-- Developed models to **distinguish plastic bags from jellyfish** in underwater environments.
+### Robust Underwater Plastic Detection  
+_August 2023 – November 2023 · with Prof. Biplab Banerjee, IIT Bombay_  
+- Curated an improved dataset to address **bias** in underwater plastic detection.  
+- Built models to **separate plastic bags from jellyfish**. [[Slides]](https://docs.google.com/presentation/d/1Oa0EDRlMmAJ9CZbyhhDgLj60_izeJjd2/edit?usp=sharing&ouid=107892202379410273971&rtpof=true&sd=true)
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/TurtleBot.png)
+<img alt="Underwater robotics" src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/TurtleBot.png" width="800"/>
 
 ### Loan Amount Sanction Prediction System  
-*September 2021 - December 2021*  
-- Built an XGBoost-based [prediction model](https://github.com/101vinayak/loan_sanction_prediction_system) for loan sanctioning, achieving **87% accuracy** on CIPLA's Data Scientist Challenge.
+_September 2021 – December 2021_  
+- **XGBoost** pipeline for loan sanctioning; **87%** accuracy. [[Repo]](https://github.com/101vinayak/loan_sanction_prediction_system)
 
-### Smart Face Lock  
-*January 2021 - February 2021*  
-- Developed a **Liveliness detection model** to [detect live faces](https://github.com/101vinayak/liveness_detection_model) for phone privacy protection with an **error rate of 0.2%**.
+### Smart Face Lock (Liveness Detection)  
+_January 2021 – February 2021_  
+- **Liveness detection** for device unlock; **0.2%** error rate. [[Repo]](https://github.com/101vinayak/liveness_detection_model)
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/SmartLock.gif)
+<img alt="Smart Face Lock" src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/SmartLock.gif" width="480"/>
 
-### Soldier Strap - Smart India Hackathon Finalist  
-*January 2020 - March 2020*  
-- Led a team to build a [solution for optimizing soldier movement]([https://drive.google.com/file/d/1f93iOjoWe9BokOoq9d-V7yphSE7aHLn4/view?usp=sharing](https://drive.google.com/file/d/1e32NFHqLlWYhMl7PRoJ5Yq5EC7UBksvp/view?usp=sharing)) through clustering algorithms, resulting in a **12% increase in operational efficiency**.
+### Soldier Strap — Smart India Hackathon Finalist  
+_January 2020 – March 2020_  
+- Optimized soldier movement using clustering; **12%** efficiency gain. [[Slides]](https://drive.google.com/file/d/1e32NFHqLlWYhMl7PRoJ5Yq5EC7UBksvp/view?usp=sharing)
 
-### Centaur - Unmanned Rover  
-*September 2019 - April 2020*  
-- Developed the navigation stack for lane detection using ROS for the **Centaur UGV**, achieving **9th place** at [IGVC-2020](https://github.com/101vinayak/UGV-Centaur-NavStack) in Oakland.
+### Centaur — Unmanned Rover (IGVC-2020)  
+_September 2019 – April 2020_  
+- Built ROS-based lane detection & navigation; **9th place** at IGVC-2020 (Oakland). [[Repo]](https://github.com/101vinayak/UGV-Centaur-NavStack)
 
-![Alt text](https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Centaur.png)
+<img alt="Centaur UGV" src="https://raw.githubusercontent.com/101vinayak/vinayakdhruv.github.io/main/assets/img/Centaur.png" width="800"/>
 
 ---
 
-## Awards, Honors, and Scholarships
+## Awards & Honors
 
-- **1st Place**, NASA Astronomy Olympiad (Senior Secondary Level).
-- **College Finalist**, Smart India Hackathon 2020.
-- **9th Place Overall**, **5th in Cyber Security**, IGVC-2019, Oakland, Michigan.
-- **Gold Star** on HackerRank in Problem Solving (C++) and **3-star rating** on CodeChef (Global rank: 354).
+- **1st Place**, NASA Astronomy Olympiad (Senior Secondary)  
+- **College Finalist**, Smart India Hackathon 2020  
+- **IGVC-2019 (Oakland)**: **9th Overall**, **5th in Cyber Security**  
+- **HackerRank:** Gold Star (Problem Solving, C++) · **CodeChef:** 3-star (Global Rank: 354)
 
 ---
 
 ## Positions of Responsibility
 
-- **Team Captain**, UGV-DTU (2020-2022), guiding the team through major robotics competitions and continuing as a team advisor.
-- **Class Representative**, CO327 Course, 5th semester (Aug 2020 - Dec 2020).
-- **Volleyball Team Captain**, 10th Standard (2015-2016).
-- **Head Boy**, Senior Secondary School (2017-2018).
-- **Head of Disciplinary Committee**, Senior Secondary School (2016-2017).
+- **Team Captain**, UGV-DTU (2020–2022); later advisor  
+- **Class Representative**, CO327 (Aug 2020 – Dec 2020)  
+- **Volleyball Team Captain**, 10th Standard (2015–2016)  
+- **Head Boy**, Senior Secondary (2017–2018)  
+- **Head, Disciplinary Committee**, Senior Secondary (2016–2017)
 
 ---
 
-## Hobbies and Extracurricular Activities
----
+## Hobbies
 
-- **Volleyball**: Led the school volleyball team in several tournaments.
-- **Chess**: Participated in national-level chess championships.
-- **Trekking**: Enjoy exploring nature and trekking in remote areas.
-- **Traveling**: Passionate about visiting new places and learning about different cultures.
-- **Reading**: Avid reader of novels, particularly in science fiction and historical fiction genres.
+- **Volleyball** · **Chess** · **Trekking** · **Travel** · **Reading** (sci-fi & historical fiction)
 
 ---
+
+### Contact
+
+- **Email:** [vinayak.dhruv.personal@gmail.com](mailto:vinayak.dhruv.personal@gmail.com)  
+- **Phone:** +1 (240) 413-9715  
+- **Website:** [vinayakdhruv.com](https://vinayakdhruv.com)
+
+> If you’re working on **Agentic Frameworks**, **RAG architectures**, **Foundational Models**, **efficient MoE**, **multimodal grounding**, or **eval for agents/VLMs**, I’d love to connect.
