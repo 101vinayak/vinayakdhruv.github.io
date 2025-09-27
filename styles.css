@@ -149,7 +149,7 @@ a:hover{text-decoration:underline}
 /* --- New: right-aligned thumbnail layout for Work Experience --- */
 .media{
   display:grid;
-  grid-template-columns: 1fr 560px;  /* text | image */
+  grid-template-columns: 1fr 360px;  /* text | image */
   gap:18px;
   align-items:start;
 }
