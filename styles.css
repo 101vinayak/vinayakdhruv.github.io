@@ -33,7 +33,17 @@ a:hover{text-decoration:underline}
 .subtitle{font-size:20px; color:#111; margin:0 0 6px}
 .muted{color:var(--muted)}
 .actions{display:flex; gap:12px; margin-top:16px}
-.hero-image img{width:220px; height:220px; object-fit:cover; border-radius:16px; box-shadow:var(--shadow)}
+/* Make headshot respect its natural aspect ratio (no cropping) */
+.hero-image img{
+  max-width: 240px;           /* controls max width */
+  height: auto;               /* keep aspect ratio */
+  object-fit: contain;        /* never crop */
+  border-radius: 16px;        /* optional rounded corners */
+  box-shadow: var(--shadow);
+  background: #fff;
+  padding: 0;                 /* remove frame padding if any */
+}
+
 
 .section{padding:56px 0; background:var(--bg)}
 .section.alt{background:var(--bg-alt)}
@@ -93,3 +103,15 @@ a:hover{text-decoration:underline}
   .hero-image{order:-1; display:flex; justify-content:center}
   .nav-links{display:none} /* keep header simple on mobile */
 }
+
+.figure{ margin-top:12px }
+.figure.narrow img{ max-width: 480px }
+.gallery{
+  display:grid; gap:14px; grid-template-columns:1fr;
+}
+@media (min-width:980px){
+  .gallery{ grid-template-columns:1fr 1fr }
+}
+.badges img{ height:20px; }
+.badges{ display:flex; gap:10px; align-items:center; margin:10px 0 4px; flex-wrap:wrap; }
+
