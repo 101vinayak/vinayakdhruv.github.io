@@ -35,7 +35,7 @@ a:hover{text-decoration:underline}
 .actions{display:flex; gap:12px; margin-top:16px}
 /* Make headshot respect its natural aspect ratio (no cropping) */
 .hero-image img{
-  max-width: 240px;           /* controls max width */
+  max-width: 24px;           /* controls max width */
   height: auto;               /* keep aspect ratio */
   object-fit: contain;        /* never crop */
   border-radius: 16px;        /* optional rounded corners */
@@ -149,7 +149,7 @@ a:hover{text-decoration:underline}
 /* --- New: right-aligned thumbnail layout for Work Experience --- */
 .media{
   display:grid;
-  grid-template-columns: 1fr 360px;  /* text | image */
+  grid-template-columns: 1fr 280px;  /* text | image */
   gap:18px;
   align-items:start;
 }
