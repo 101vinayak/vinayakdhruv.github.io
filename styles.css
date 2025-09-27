@@ -35,7 +35,7 @@ a:hover{text-decoration:underline}
 .actions{display:flex; gap:12px; margin-top:16px}
 /* Make headshot respect its natural aspect ratio (no cropping) */
 .hero-image img{
-  max-width: 240px;           /* controls max width */
+  max-width: 480px;           /* controls max width */
   height: auto;               /* keep aspect ratio */
   object-fit: contain;        /* never crop */
   border-radius: 16px;        /* optional rounded corners */
